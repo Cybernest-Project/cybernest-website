@@ -2,7 +2,7 @@
   "title": "Cybernest",
   "description": "Cybernest is a main website for Cybernest Project Agency",
   "image": {
-    "src": "https://github.com/Cybernest-Project/cybernest-website.git/public/cover.png",
+    "src": "https://github.com/Cybernest-Project/cybernest-website/raw/main/public/cover.png",
     "alt": "Cybernest"
   }
 }
