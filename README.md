@@ -1,3 +1,5 @@
+[![Deploy Astro site to Pages](https://github.com/Cybernest-Project/cybernest-website/actions/workflows/astro.yml/badge.svg)](https://github.com/Cybernest-Project/cybernest-website/actions/workflows/astro.yml)
+
 # Cybernest - Digital Marketing Agency Landing Page
 
 Cybernest Official Landing Page Website
